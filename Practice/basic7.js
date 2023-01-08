@@ -11,7 +11,7 @@ class Pets extends User {
 }
 
 let Pe = new Pets("daniel","craig")
-let pets = new Pets("daniel","craigs")
+let pets = new Pets("daniel","craiz")
 
 Pe.fullnames()
 pets.fullnames()
